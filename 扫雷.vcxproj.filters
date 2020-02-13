@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{a7289845-7b4c-4e86-9639-06feeb1248da}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{966bbd7b-10f9-4c68-b209-2eddb40e12a1}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{5c3aaec0-4d49-486e-9c1b-53d6c4f210a1}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RES.RC">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="扫雷.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\HEADFILE\MemMng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TouchImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="RES\BOMB.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM0.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM2.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM3.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM4.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM5.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM6.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM7.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM8.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM_Signed.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM~.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\NUM？.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\铲子.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\铲子~.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="RES\boom.wav" />
+  </ItemGroup>
+</Project>

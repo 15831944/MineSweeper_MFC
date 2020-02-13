@@ -1,0 +1,86 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE
+BEGIN
+"resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE
+BEGIN
+"#include ""afxres.h""\r\n"
+"\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE
+BEGIN
+"\r\n"
+"\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// IMAGE
+//
+
+NUM？                   IMAGE   DISCARDABLE     "RES\\NUM？.jpg"
+NUM_SIGNED              IMAGE   DISCARDABLE     "RES\\NUM_Signed.jpg"
+NUM~IMAGE   DISCARDABLE     "RES\\NUM~.jpg"
+NUM0                    IMAGE   DISCARDABLE     "RES\\NUM0.jpg"
+NUM2                    IMAGE   DISCARDABLE     "RES\\NUM2.jpg"
+NUM3                    IMAGE   DISCARDABLE     "RES\\NUM3.jpg"
+NUM4                    IMAGE   DISCARDABLE     "RES\\NUM4.jpg"
+NUM5                    IMAGE   DISCARDABLE     "RES\\NUM5.jpg"
+NUM6                    IMAGE   DISCARDABLE     "RES\\NUM6.jpg"
+NUM7                    IMAGE   DISCARDABLE     "RES\\NUM7.jpg"
+NUM8                    IMAGE   DISCARDABLE     "RES\\NUM8.jpg"
+铲子                    IMAGE   DISCARDABLE     "RES\\铲子.jpg"
+铲子~IMAGE   DISCARDABLE     "RES\\铲子~.jpg"
+NUM1                    IMAGE   DISCARDABLE     "RES\\NUM1.jpg"
+BOMB                    IMAGE   DISCARDABLE     "RES\\BOMB.jpg"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+BOOM                    WAVE    DISCARDABLE     "RES\\boom.wav"
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
